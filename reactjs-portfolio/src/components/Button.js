@@ -13,7 +13,7 @@ export const Button = ({
     buttonStyle,
     buttonSize
  }) => {
-     const checkButtonStyle = STYLE.includes(buttonStyle) 
+     const checkButtonStyle = STYLES.includes(buttonStyle) 
       ? buttonStyle 
       : STYLES[0];
 
