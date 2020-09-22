@@ -1,0 +1,93 @@
+.mail-container {
+  height: 600px;
+  width: 100%;
+  padding: 0 20%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  object-fit: contain;
+}
+
+.mail-container > h2 {
+  color: #000;
+  font-size: 2.5rem;
+  /* margin-top: -100px; */
+}
+
+.mail-container > p {
+  margin-top: 8px;
+  color: #000;
+  font-size: 32px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 25px 10px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.envelope:hover {
+  color: #01c4da !important;
+  text-decoration: none;
+}
+
+.envelope {
+  color: #242424 !important;
+  text-decoration: none;
+}
+
+.phone:hover {
+  color: #01c4da !important;
+  text-decoration: none;
+}
+
+.phone {
+  color: #242424 !important;
+  text-decoration: none;
+}
+
+/* Contact Page contact-Social Icons */
+.contact-social-icon-link {
+  color: #242424;
+  font-size: 24px;
+}
+
+.contact-social-icon-link:hover {
+  color: #01c4da;
+  transition: 0.3s ease-out;
+}
+
+.contact-social-media {
+  max-width: 1000px;
+  width: 100%;
+}
+
+.contact-social-icons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 240px;
+  margin-top: 50px;
+}
+
+.contact-social-logo {
+  color: #fff;
+  justify-self: start;
+  margin-left: 20px;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  margin-bottom: 16px;
+}

@@ -1,0 +1,66 @@
+.bio-container {
+  /* background: url('/images/clouds.jpg') center center/cover no-repeat; */
+  background-color: #fff !important;
+  height: 600px;
+  width: 100%;
+  padding: 0 20%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  object-fit: contain;
+}
+
+.bio-container > h2 {
+  color: #000;
+  font-size: 2.5rem;
+  /* margin-top: -100px; */
+}
+
+.bio-container > p {
+  margin-top: 8px;
+  color: #000;
+  font-size: 32px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+}
+
+.bio-btns {
+  margin-top: 32px;
+}
+
+.bio-btns .btn {
+  margin: 6px;
+}
+
+.fa-play-circle {
+  margin-left: 4px;
+}
+
+@media screen and (max-width: 960px) {
+  .bio-container > h1 {
+    font-size: 70px;
+    margin-top: -150px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .bio-container > h1 {
+    font-size: 50px;
+    margin-top: -100px;
+  }
+
+  .bio-container > p {
+    font-size: 20px;
+  }
+
+  .btn-mobile {
+    display: block;
+    text-decoration: none;
+  }
+
+  .btn {
+    width: 100%;
+  }
+}
