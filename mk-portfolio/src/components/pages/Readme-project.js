@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-target-blank */
 import React from "react";
 import "../Projects.css";
 import CardItem from "../CardItem.js";
@@ -27,6 +28,7 @@ function Cards() {
           <a
             href="https://github.com/kellymedia/node-readme-generator"
             className="repo-link"
+            target="_blank"
           >
             GitHub Repo
           </a>
@@ -34,6 +36,7 @@ function Cards() {
           <a
             href="https://drive.google.com/file/d/1mu1BhJ9Ivs2hHOi6RxQoTLWZfFdT3Zk6/view"
             className="demo-link"
+            target="_blank"
           >
             Live Demo
           </a>

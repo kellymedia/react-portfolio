@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-target-blank */
 import React from "react";
 import "../Projects.css";
 import CardItem from "../CardItem.js";
@@ -27,6 +28,7 @@ function Cards() {
           <a
             href="https://github.com/kellymedia/horiseon-agency-code-refactor"
             className="repo-link"
+            target="_blank"
           >
             GitHub Repo
           </a>
@@ -34,6 +36,7 @@ function Cards() {
           <a
             href="https://kellymedia.github.io/horiseon-agency-code-refactor/"
             className="demo-link"
+            target="_blank"
           >
             Live Demo
           </a>

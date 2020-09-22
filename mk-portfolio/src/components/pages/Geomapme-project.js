@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-target-blank */
 import React from "react";
 import "../Projects.css";
 import CardItem from "../CardItem.js";
@@ -27,11 +28,16 @@ function Cards() {
           <a
             href="https://github.com/kellymedia/geoMap-Me"
             className="repo-link"
+            target="_blank"
           >
             GitHub Repo
           </a>
           <br />
-          <a href="https://geomap-me.herokuapp.com/" className="demo-link">
+          <a 
+            href="https://geomap-me.herokuapp.com/" 
+            className="demo-link"
+            target="_blank"
+          >
             Live Demo
           </a>
           <br />
