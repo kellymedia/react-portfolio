@@ -10,7 +10,7 @@ function Cards() {
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem
-              src="images/geoMapMe.png"
+              src="images/geomap.png"
               alt="geoMapMe screenshot"
               text="Mapping app for users to mark their favorite locations using device location data."
               label="geoMapMe App"
