@@ -26,16 +26,23 @@
 
 .hero-btns {
   margin-top: 32px;
+  min-width: 250px;
 }
 
-.hero-btns .btn .res-btn {
-  margin: 10px;
+.hero-btns button {
+  margin-bottom: 10px;
 }
 
 .fa-play-circle {
   margin-left: 4px;
 }
 
+@media screen and (min-width: 769px) {
+  .hero-container button {
+    margin:10px;
+  }
+  
+}
 @media screen and (max-width: 960px) {
   .hero-container > h1 {
     font-size: 70px;
