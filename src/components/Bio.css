@@ -34,7 +34,7 @@
   margin: 40px;
 }
 
-img {
+#headshot {
   border-radius: 50%;
 }
 
@@ -60,7 +60,7 @@ img {
     font-size: .65em;
   }
 
-  img {
+  #headshot {
     max-height: 200px;
   }
 }
@@ -79,7 +79,7 @@ img {
     font-size: 1.5em;
   }
 
-  img {
+  #headshot {
     max-height: 150px;
   }
 
