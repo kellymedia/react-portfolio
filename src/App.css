@@ -17,7 +17,7 @@
 }
 
 .home {
-  background-image: url('/images/clouds.jpg');
+  background-image: url('/assets/clouds.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -27,7 +27,7 @@
 }
 
 .about {
-  background-image: url('/images/sailboats.jpg');
+  background-image: url('/assets/sailboats.jpg');
   background-position: bottom;
   background-size: cover;
   background-repeat: no-repeat;
@@ -37,7 +37,7 @@
 }
 
 .projects {
-  background-image: url('/images/pacific.jpg');
+  background-image: url('/assets/pacific.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -47,7 +47,7 @@
 }
 
 .contact {
-  background-image: url('/images/mountains.jpg');
+  background-image: url('/assets/mountains.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

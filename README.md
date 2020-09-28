@@ -4,11 +4,11 @@
 
 This portfolio app was built using React javascript library. I built several components that utilize props to render various development projects I have created and hosted on GitHub. The app is deployed using Heroku. 
 
-[![App Screenshot](./public/images/screenshot.png "alt tex goes here")](#)
+[![App Screenshot](./public/assets/screenshot.png "alt tex goes here")](#)
 
 ## Demo
 
-Click here for a [demo](https://mk-react-portfolio-app.herokuapp.com/) of this project.
+Click here for a [demo](https://michael-kelly-portfolio.herokuapp.com/) of this project.
 
 ## Tech
 

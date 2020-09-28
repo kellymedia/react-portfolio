@@ -14,7 +14,7 @@ function Cards() {
           <div className="cards__wrapper">
             <ul className="cards__items">
               <CardItem
-                src="images/node-generator.png"
+                src="assets/node-generator.png"
                 alt="node screenshot"
                 text="Create a README.md file using Node.js. A user will be given several questions and prompts, and a new file will be dynamically generated."
                 label="Node"

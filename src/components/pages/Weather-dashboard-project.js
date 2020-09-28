@@ -14,7 +14,7 @@ function Cards() {
           <div className="cards__wrapper">
             <ul className="cards__items">
               <CardItem
-                src="images/weather-dashboard.png"
+                src="assets/weather-dashboard.png"
                 alt="weather dashboard screenshot"
                 text="This app allows the user to search for current weather conditions by city names. The current conditions are displayed at the top of the results, and the 5-day forecast is displayed below it."
                 label="Weather Dashboard App"

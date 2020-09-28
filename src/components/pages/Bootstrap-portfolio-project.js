@@ -14,7 +14,7 @@ function Cards() {
           <div className="cards__wrapper">
             <ul className="cards__items">
               <CardItem
-                src="images/bootstrap-portfolio.png"
+                src="assets/bootstrap-portfolio.png"
                 alt="portfolio screenshot"
                 text="This is a portfolio website built with Bootstrap 4. It is fully responsive and lightweight."
                 label="Bootstrap Portfolio"

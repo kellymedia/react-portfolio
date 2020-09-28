@@ -14,7 +14,7 @@ function Cards() {
           <div className="cards__wrapper">
             <ul className="cards__items">
               <CardItem
-                src="images/horiseon-refactor.png"
+                src="assets/horiseon-refactor.png"
                 alt="Horiseon screenshot"
                 text="This is a code refactor solution for an agency website."
                 label="Code Refactor"

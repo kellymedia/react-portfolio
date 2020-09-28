@@ -21,7 +21,7 @@ export const Resume = ({
 
   return (
     <Link
-      to="../images/Michael_Kelly_Resume.pdf"
+      to="../assets/michael-kelly-resume.pdf"
       className="res-btn-mobile"
       target="_blank"
     >

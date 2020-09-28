@@ -10,21 +10,21 @@ function Cards() {
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem
-              src="images/geomap.png"
+              src="assets/geomap.png"
               alt="geoMapMe screenshot"
               text="Mapping app for users to mark their favorite locations using device location data."
               label="geoMapMe App"
               path="/geomapme-project"
             />
             <CardItem
-              src="images/node-generator.png"
+              src="assets/node-generator.png"
               alt="node-readme screenshot"
               text="README.md generator using Node.js CLI."
               label="README.md Generator"
               path="readme-project"
             />
             <CardItem
-              src="images/find-and-dine.png"
+              src="assets/find-and-dine.png"
               alt="find-and-dine screenshot"
               text="Recipe finder app using public recipe and nutrition APIs."
               label="Find & Dine App"
@@ -33,21 +33,21 @@ function Cards() {
           </ul>
           <ul className="cards__items">
             <CardItem
-              src="images/bootstrap-portfolio.png"
+              src="assets/bootstrap-portfolio.png"
               alt="portfolio screenshot"
               text="Portfolio site built with Bootstrap 4."
               label="Bootstrap Portfolio"
               path="/bootstrap-portfolio-project"
             />
             <CardItem
-              src="images/weather-dashboard.png"
+              src="assets/weather-dashboard.png"
               alt="weather dashboard screenshot"
               text="Multi-city weather forecast app using public weather data API. "
               label="Weather Dashboard"
               path="/weather-dashboard-project"
             />
             <CardItem
-              src="images/horiseon-refactor.png"
+              src="assets/horiseon-refactor.png"
               alt="refactor screenshot"
               text="HTML & CSS refactoring example."
               label="Code Refactor"

@@ -14,7 +14,7 @@ function Cards() {
           <div className="cards__wrapper">
             <ul className="cards__items">
               <CardItem
-                src="images/find-and-dine.png"
+                src="assets/find-and-dine.png"
                 alt="find-and-dine screenshot"
                 text="This web app provides recipe ideas for users based on the ingredients they want to use. A user can enter their ingredients in the search field to find recipe ideas for their meal."
                 label="Find & Dine App"
