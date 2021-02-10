@@ -34,7 +34,7 @@ function Cards() {
           </a>
           <br />
           <a
-            href="https://kellymedia.github.io/responsive-portfolio/index.html"
+            href="https://kellymedia.github.io/bootstrap-portfolio/"
             className="demo-link"
             target="_blank"
           >
