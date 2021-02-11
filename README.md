@@ -8,7 +8,7 @@ This portfolio app was built using React javascript library. I built several com
 
 ## Demo
 
-Click here for a [demo](https://michael-kelly-portfolio.herokuapp.com/) of this project.
+Click here for a [demo](https://michael-kelly-dev-portfolio.herokuapp.com/) of this project.
 
 ## Tech
 
