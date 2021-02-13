@@ -12,7 +12,7 @@ function Footer() {
               MK
             </Link>
           </div>
-          <small className="website-rights">Michael Kelly © 2020</small>
+          <small className="website-rights">Michael Kelly © 2021</small>
           <div className="social-icons">
             <Link
               className="social-icon-link email"
